@@ -1,5 +1,7 @@
 # What could OpenSearchServer do for me?
 
+> November 7, 2014 - by Alexandre
+
 With OpenSearchServer, you will easily be able to:
 
 * **Set up a competitive intelligence system**: OSS's powerful web crawler can automatically explore as many websites as needed in order to extract structured data - such as prices or product descriptions.

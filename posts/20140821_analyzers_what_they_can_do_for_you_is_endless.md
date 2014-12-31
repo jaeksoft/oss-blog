@@ -1,5 +1,7 @@
 # Analyzers: what they can do for you is endless!
 
+> August 21, 2014 - by Alexandre
+
 Analyzers are a fascinating part of OpenSearchServer, **offering a wealth of features**.
 
 They are responsible for processing text data both during indexation and when executing queries. They can:

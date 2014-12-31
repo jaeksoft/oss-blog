@@ -1,5 +1,7 @@
 # Add filters to a query
 
+> September 16, 2014 - by Séverine
+
 Filters are necessary when using a search engine. OpenSearchServer offers several ways to add filters to a query.
 
 For example, you want to:

@@ -1,5 +1,7 @@
 # Using synonyms to ensure user satisfaction
 
+> September 10, 2014 - by Séverine
+
 Using synonyms is a great way to ensure user satisfaction - as they mean fewer searches that return zero results. OpenSearchServer's synonym feature meets this goal by providing:
 
 *   synonyms for single words
