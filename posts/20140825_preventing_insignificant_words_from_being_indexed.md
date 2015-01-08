@@ -14,7 +14,7 @@ Here is how you can write this list in the interface:
 
 And here is a demonstration of the process **applied by an analyzer** for the sentence “Bryan is in the kitchen”:
 
-![Test of stopwords](stopwords_analyzer.png)
+![Test of stopwords](../images/stopwords_analyzer.png)
 
 See how the StopFilter has parsed down the sentence to its significant words ?
 

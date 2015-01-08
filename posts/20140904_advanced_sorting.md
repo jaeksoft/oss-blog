@@ -7,7 +7,7 @@ By default, in OpenSearchServer, search results are sorted by relevance.
 Another field can be used for sorting results, such as a "price" or "date"field, by simply adding JSON sorting terms to the query:
 
 ```json
-"sorts": [ 
+"sorts": [
    { 
      "field": "price", 
      "direction": "DESC"   }
@@ -22,7 +22,7 @@ To avoid this apparent randomness, you can easily **decide to sort documents ha
 
 
 ```json
- "sorts": [ 
+ "sorts": [
   {
      "field": "score", 
      "direction": "DESC"   },
@@ -36,7 +36,7 @@ Of course this little trick can be used the other way round too. When sorting do
 
 
 ```json
-"sorts": [ 
+"sorts": [
    { 
      "field": "price", 
      "direction": "DESC"   },
@@ -50,7 +50,7 @@ Three (or more) levels can be used:
 
 
 ```json
-"sorts": [ 
+"sorts": [
    { 
      "field": "price", 
      "direction": "DESC"   },
