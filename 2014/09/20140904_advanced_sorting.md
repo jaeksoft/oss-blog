@@ -14,11 +14,11 @@ Another field can be used for sorting results, such as a "price" or "date"field,
 ]
 ```
 
-Default sorting on relevance will work most of the time, but sometimes **results will appear to be randomly sorted** when repeatedly submitting the same search. This is because, for these particular search keywords, **several results have the same relevance "score"** as computed by OSS.
+Default sorting on relevance will work most of the time, but sometimes **results will appear to be randomly sorted** when repeatedly submitting the same search. This is because, for these particular search keywords, **several results have the same relevance "score"** as computed by OSS.
 
 <!--more-->
 
-To avoid this apparent randomness, you can easily **decide to sort documents having the same relevance score on a second field**. For example, to use the "date" field as a second level of sorting simply write:
+To avoid this apparent randomness, you can easily **decide to sort documents having the same relevance score on a second field**. For example, to use the "date" field as a second level of sorting simply write:
 
 
 ```json
@@ -32,7 +32,7 @@ To avoid this apparent randomness, you can easily **decide to sort documents ha
 ]
 ```
 
-Of course this little trick can be used the other way round too. When sorting documents using a particular field, documents having the same value for this field will be displayed in a random order. To avoid this, add a sorting using the "score" pseudo-field:
+Of course this little trick can be used the other way round too. When sorting documents using a particular field, documents having the same value for this field will be displayed in a random order. To avoid this, add a sorting using the "score" pseudo-field:
 
 
 ```json
