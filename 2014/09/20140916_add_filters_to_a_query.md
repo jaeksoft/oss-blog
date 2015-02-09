@@ -12,7 +12,7 @@ For example, you want to:
 * filter on **several values** for one field;
 * Etc.
 
-Knowing how to work with filters is **very useful when configuring and testing an index**. To make this a snap, you can quickly add or remove any filter in the interface, via tab Query / Filters.
+Knowing how to work with filters is **very useful when configuring and testing an index**. To make this a snap, you can quickly add or remove any filter in the interface, via tab Query / Filters.
 
 <!--more-->
 For example requesting documents for which the "product_price" field is not empty is as simple as this:
