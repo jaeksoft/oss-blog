@@ -1,5 +1,8 @@
 # OpenSearchServer Blog
 
+Some useful blogs written by the OpenSearchServer team.
+
+
 ### What could OpenSearchServer do for me?
 > November 7, 2014 - by Alexandre
 
