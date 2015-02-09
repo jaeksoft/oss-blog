@@ -13,7 +13,7 @@ They are responsible for processing text data both during indexation and when ex
 *   Etc.
 For example, here is how the sentence _'Take it quickly!', said Jörhun._ could be processed by analyzers before indexing:
 
-![_analyzer](../../images/analyzer.png)
+![Analyzer](../../images/analyzer.png)
 
 Tokenizers, tokens, filters... you will soon be captivated!
 
