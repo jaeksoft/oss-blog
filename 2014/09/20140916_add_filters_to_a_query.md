@@ -6,7 +6,7 @@ Filters are necessary when using a search engine. OpenSearchServer offers severa
 
 For example, you want to:
 
-* filter on **non-null values** in a specific field;
+* filter on **non-null values** in a specific field;
 * filter on a **range of values**;
 * filter on **numerical values**;
 * filter on **several values** for one field;
