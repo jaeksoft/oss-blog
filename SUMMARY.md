@@ -17,8 +17,3 @@
 	* July
 		* [Extracting Web pages informations](2014/07/20140728_extracting_specific_informations_from_web_pages.md)
 		* [Exclude part of Web pages from crawling](2014/07/20140715_excluding_part_of_web_pages_from_crawling.md)
-
-
-				
-		
-		
