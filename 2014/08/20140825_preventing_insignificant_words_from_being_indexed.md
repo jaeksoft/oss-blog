@@ -2,7 +2,7 @@
 
 > August 25, 2014 - by Alexandre
 
-When indexing data and running search queries, one usually wants to give a weight of zero to insignificant words such as “the”, “of”, etc.
+When indexing data and running search queries, one usually wants to give a weight of zero to insignificant words such as "the", "of", etc.
 
 The common solution offered by search engines is called “stop words”.
 
@@ -10,11 +10,11 @@ With OpenSearchServer, **managing and enabling a list of stop words is really si
 
 Here is how you can write this list in the interface:
 
-![Stopwords](../images/stopwords.png)
+![Stopwords](../../images/stopwords.png)
 
-And here is a demonstration of the process **applied by an analyzer** for the sentence “Bryan is in the kitchen”:
+And here is a demonstration of the process **applied by an analyzer** for the sentence “Bryan is in the kitchen”:
 
-![Test of stopwords](../images/stopwords_analyzer.png)
+![Test of stopwords](../../images/stopwords_analyzer.png)
 
 See how the StopFilter has parsed down the sentence to its significant words ?
 
