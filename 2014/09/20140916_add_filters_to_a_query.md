@@ -11,13 +11,13 @@ For example, you want to:
 * filter on **numerical values**;
 * filter on **several values** for one field;
 * Etc.
-</ul>
+
 Knowing how to work with filters is **very useful when configuring and testing an index**. To make this a snap, you can quickly add or remove any filter in the interface, via tab Query / Filters.
 
 <!--more-->
 For example requesting documents for which the "product_price" field is not empty is as simple as this:
 
-![Filters](../images/filters.png)
+![Filters](../../images/filters.png)
 
 Filters are also essential when **working with facets**: when a user **clicks on a facet, they are actually sending a filtered query** to OpenSearchServer.
 
