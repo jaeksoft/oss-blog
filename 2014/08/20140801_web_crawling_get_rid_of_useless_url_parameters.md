@@ -2,7 +2,7 @@
 
 > August 01, 2014 - By Séverine
 
-When using OSS’s Web Crawler, the crawling operation might last too long. **The more URLs the web crawler has to parse, the longer the crawl gets**. This is why it is important to **limit the number of URLs** as much as possible.
+When using OSS's Web Crawler, the crawling operation might last too long. **The more URLs the web crawler has to parse, the longer the crawl gets**. This is why it is important to **limit the number of URLs** as much as possible.
 
 The `Pattern list` can be your first response. Limiting the allowed patterns for a website's URLs is a good starting point. But sometimes it is not enough, especially in these two scenarios:
 
